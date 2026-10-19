@@ -13,8 +13,8 @@ Unsupervised clustering of the A3 benchmark dataset (7,500 two-dimensional point
 
 | | |
 |---|---|
-| **Context** | {{University, course (semester/year)}} |
-| **Period** | {{e.g. Sep 2025 - Oct 2025}} |
+| **Context** | {{University, }} |
+| **Period** | {May 2026} |
 | **Team** | Group of 3 |
 | **Data** | [A3 benchmark](https://cs.uef.fi/sipu/datasets/) (Fränti & Virmajoki, 2006) plus the GA-VQ codebook and partition provided for the task |
 | **Tech** | Python, scikit-learn, SciPy, pandas, matplotlib, seaborn |
